@@ -2,7 +2,7 @@
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-InstaTag-brightgreen.svg?style=flat)](http://android-arsenal.com/details/3/3216)
 
-Android Photo Editing &amp; Sharing App
+Android Photo Editing &amp; Sharing and downloading App
 
 <img src="https://github.com/TheFinestArtist/InstaTag/blob/master/art/instatag_a_400.png">
 
